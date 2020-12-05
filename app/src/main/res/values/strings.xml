@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Ecommerce</string>
+    <string name="content_price">Rp.5.000.000</string>
+    <string name="deskripsi">- Deskripsi</string>
+    <string name="content_text">DualCore A4 9125-2.3Ghz upto 2.6Ghz,RAM 4GB,HDD 1TB,Display: 14.0" (16:9) LED backlit HD (1366x768) 60Hz Glare Panel with 45% NTSC,Wifi,Bluetooth,Camera,AMD Radeon R3 Graphics,DVD RW,Windows 10 Original,Free Bag Original ASUS</string>
+    <string name="display">Display 14.0" 16:9 HD (1366x768)</string>
+    <string name="merk">Asus</string>
+    <string name="Operating_System">Windows</string>
+    <string name="Processor">Amd A4 7th 9125 2.3Ghz</string>
+    <string name="ram">4 GB</string>
+    <string name="penyimpanan">1 TB HDD</string>
+    <string name="layar">14"</string>
+    <string name="resolusi">1366x768</string>
+    <string name="berat">1.6</string>
+    <string name="garansi">Garansi Resmi</string>
+    <string name="graphic">AMD</string>
+    <string name="periode">Garansi Resmi Asus 2Tahun</string>
+    <string name="stok">5</string>
 </resources>
